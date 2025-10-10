@@ -1,5 +1,5 @@
 import React from "react";
-import groupImage from "../images/ExperimentsSection/Group 16.svg";
+import groupImage from "../images/ExperimentsSection/Group 16.png";
 import button from "../images/HeroSection/Group 3.svg";
 const ExperimentsSection = () => {
   const handleInstagramNav = () => {
